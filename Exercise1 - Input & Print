@@ -7,3 +7,5 @@ name = input ('Please enter your name:')
 age = int(input ('Please enter your age:'))
 yearof100=2019+100-age
 print ('Hi, %s, You will be 100 years old in year %d'%(name, yearof100))
+or
+print ('Dear Mr/Ms ' + name + ', you will be 100 years old in year' + str(yearof100) + '\n' )
