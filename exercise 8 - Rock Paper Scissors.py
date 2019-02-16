@@ -6,7 +6,7 @@ Rock beats scissors
 Scissors beats paper
 Paper beats rock
 '''
-print('Game Start/n')
+print('Game Start')
 player1_name = input('Please enter your name(player1):')
 player2_name = input('Please enter your name(player2):')
 	
